@@ -1,4 +1,3 @@
-import numpy as np
 from shared.kernel import kernel
 
 

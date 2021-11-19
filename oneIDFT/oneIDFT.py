@@ -1,6 +1,5 @@
 
 import numpy as np
-
 from oneDFT.oneDFT import oneDFT
 from shared.kernel import kernel
 
